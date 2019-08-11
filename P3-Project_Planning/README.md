@@ -4,16 +4,59 @@ For this assignment, you'll create some initial plans for your project.
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
-## Submission Instructions
+
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+
+
+- Wireframe sketch notes for "homepage" and "add client" pages.
+
+  ![sketch notes](project_images/project_wireframe1)
+
+
+- Wireframe sketch notes for client page, a book new visit page, and a page for a listing of all clients.
+
+  ![sketch notes](project_images/project_wireframe2)
+
+- more fleshed out wireframes using Adobe Illustrator.
+  -Homepage
+  
+  
+  ![Homepage](project_images/image_homepage)
+  
+  -Page to search clients/add visits
+  
+  
+  ![Page to search clients/add visits](project_images/image_visitpage)
+  
+  -Page for one client and their visits
+  
+  
+  ![Page for one client and their visits](project_images/image_clientpage)
+  
+  -Page for adding new clients. 
+  
+  
+  ![Page for adding clients](project_images/addclient)
+  
+  
+
+
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+
+Trello Board
+
+
+[Project Trello Board](https://trello.com/b/0RWGCChN/liftoff-future-vision)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+
+Repo Link
+
+
+[Project Repo Link](https://github.com/AndChurchville/Liftoff_FutureVision)
