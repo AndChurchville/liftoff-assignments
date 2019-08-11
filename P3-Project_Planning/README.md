@@ -12,33 +12,33 @@ For this assignment, you'll create some initial plans for your project.
 
 - Wireframe sketch notes for "homepage" and "add client" pages.
 
-  ![sketch notes](project_images/project_wireframe1)
+  ![sketch notes](project_images/project_wireframe1.jpg)
 
 
 - Wireframe sketch notes for client page, a book new visit page, and a page for a listing of all clients.
 
-  ![sketch notes](project_images/project_wireframe2)
+  ![sketch notes](project_images/project_wireframe2.jpg)
 
 - more fleshed out wireframes using Adobe Illustrator.
   -Homepage
   
   
-  ![Homepage](project_images/image_homepage)
+  ![Homepage](project_images/image_homepage.jpg)
   
   -Page to search clients/add visits
   
   
-  ![Page to search clients/add visits](project_images/image_visitpage)
+  ![Page to search clients/add visits](project_images/image_visitpage.jpg)
   
   -Page for one client and their visits
   
   
-  ![Page for one client and their visits](project_images/image_clientpage)
+  ![Page for one client and their visits](project_images/image_clientpage.jpg)
   
   -Page for adding new clients. 
   
   
-  ![Page for adding clients](project_images/addclient)
+  ![Page for adding clients](project_images/addclient.jpg)
   
   
 
