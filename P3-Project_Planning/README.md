@@ -38,7 +38,7 @@ For this assignment, you'll create some initial plans for your project.
   -Page for adding new clients. 
   
   
-  ![Page for adding clients](project_images/addclient.jpg)
+  ![Page for adding clients](project_images/image_addclient.jpg)
   
   
 
